@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ATS Resume Optimizer",
+  "description": "A high-performance ATS Resume Optimization Engine powered by Gemini 2.5. It analyzes job descriptions and resumes to generate optimized content, LaTeX blocks, and ATS readiness reports.",
+  "requestFramePermissions": []
+}
